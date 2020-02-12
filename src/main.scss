@@ -1,0 +1,17 @@
+$primary : white;
+
+h1{
+    color: $primary;
+}
+
+body{
+    background-image: url("./images/huge.jpg");
+}
+
+h2 {
+    background-color: $primary;
+}
+
+.whiteNoise {
+    border: 4px solid orange;
+}
